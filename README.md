@@ -29,3 +29,7 @@ This site is a personal portfolio showcasing my skills, projects, blogs, and res
 └── assets/
     ├── style.css          # Site styling
     └── ...                # Images, fonts, or future assets
+
+## 🛠️ License
+
+This website and its content are protected under the terms described in the [LICENSE](LICENSE) file.
